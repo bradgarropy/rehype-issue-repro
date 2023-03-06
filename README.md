@@ -1,6 +1,7 @@
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
+- [CodeSandbox](https://codesandbox.io/p/github/bradgarropy/rehype-issue-repro/master?workspaceId=84aea1eb-2ce6-4564-b071-64ecd411c13c&file=%2FREADME.md)
 
 ## Development
 
